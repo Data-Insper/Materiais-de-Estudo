@@ -14,3 +14,8 @@ https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIF
 
 ## Codewars
 Dedique algum tempo do seu dia à resolução de um desafio do https://www.codewars.com/. São diversos mini-problemas de programação que podem ser resolvidos em quase qualquer liguagem. Resolvê-los e ver a forma como outras pessoas chegaram ao mesmo resultado te tornarão um programador mais proficiente.
+
+
+
+
+![alt text](https://bravi.com.br/app/uploads/2019/10/codewars-example.png)
