@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6
 
 ## Jupyter Notebooks
 Instalação e básicos do Jupyter Notebooks, um ambiente de programação voltado para manipulação de dataframes:\
-https://www.youtube.com/user/schafer5
+https://www.youtube.com/watch?v=HW29067qVWk&t=169s
 
 ## Playlist de Pandas
 Aprenda a manipular dataframes com um dos principais pacotes do Python:\
