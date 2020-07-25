@@ -9,5 +9,5 @@ Instalação e básicos do Jupyter Notebooks, um ambiente de programação volta
 https://www.youtube.com/user/schafer5
 
 # Playlist de Pandas
-Aprenda a manipular dataframes com um dos principais pacote do Python:\
+Aprenda a manipular dataframes com um dos principais pacotes do Python:\
 https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
