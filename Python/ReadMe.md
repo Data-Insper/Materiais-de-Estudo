@@ -18,4 +18,4 @@ Dedique algum tempo do seu dia à resolução de um desafio do https://www.codew
 
 
 
-![alt text](https://bravi.com.br/app/uploads/2019/10/codewars-example.png)
+![alt text](http://onecompileman.com/blog-images/15440854780.png)
