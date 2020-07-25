@@ -1,5 +1,5 @@
 ## Materiais de Estudo Python
-Nessa seção disponibilizaremos alguns links confiáveis e didáticos para o estudo de Python e seus principais pacotes de ciência de dados
+Nesta seção disponibilizaremos alguns links confiáveis e didáticos para o estudo de Python e seus principais pacotes de ciência de dados
 
 # Playlist de Fundamentos até Python Intermediário
 https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
