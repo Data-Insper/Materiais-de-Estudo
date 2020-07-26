@@ -2,7 +2,7 @@
 Nesta seção disponibilizaremos alguns links confiáveis e didáticos para o estudo de Python e seus principais pacotes de ciência de dados
 
 ## Playlist de Fundamentos até Python Intermediário
-https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+[![](http://img.youtube.com/vi/ZyhVh-qRZPA/0.jpg)](http://www.youtube.com/watch?v=ZyhVh-qRZPA "")
 
 ## Jupyter Notebooks
 Instalação e básicos do Jupyter Notebooks, um ambiente de programação voltado para manipulação de dataframes:\
