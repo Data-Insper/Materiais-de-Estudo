@@ -17,5 +17,3 @@ O pacote Dplyr tornará a manipulação de dataframes um processo muito mais pra
 
 ## Material Complementar de estudos: 
 https://cran.r-project.org/doc/manuals/r-release/R-intro.html
-
-teste
